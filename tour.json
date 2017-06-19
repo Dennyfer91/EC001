@@ -12,9 +12,9 @@
     "email": "andi@fakemail.com",
     "city": "taichung",
     "picture": "andi.jpg",
-    "latitude": "24.147.736",
-    "longitude": "120.673.648",
-    "Address": "24.147.736,120.673.648"
+    "latitude": "24.147736",
+    "longitude": "120.673648",
+    "Address": "24.147736,120.673648"
   },
   {
     "id": 11,
