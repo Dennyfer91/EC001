@@ -46,8 +46,9 @@
     "email": "bob@fakemail.com",
     "city": "taoyuan",
     "picture": "bob.jpg",
-    "latitude": "24.993.628",
-    "longitude": "121.300.980"
+    "latitude": "24.993628",
+    "longitude": "121.300980",
+    "Address": "24.993628,121.300980"
   },
   {
     "id": 9,
@@ -62,8 +63,9 @@
     "email": "angel@fakemail.com",
     "city": "hsinchu",
     "picture": "angel.jpg",
-    "latitude": "24.813.829",
-    "longitude": "120.967.480"
+    "latitude": "24.813829",
+    "longitude": "120.967480",
+    "Address": "24.813829,120.967480"
   },
   {
     "id": 8,
@@ -78,8 +80,9 @@
     "email": "tom@fakemail.com",
     "city": "tainan",
     "picture": "tom.jpg",
-    "latitude": "22.999.728",
-    "longitude": "120.227.028"
+    "latitude": "22.999728",
+    "longitude": "120.227028",
+    "Address": "22.999728,120.227028"
   },
   {
     "id": 7,
@@ -94,8 +97,9 @@
     "email": "ann@fakemail.com",
     "city": "hualien",
     "picture": "ann.jpg",
-    "latitude": "23.991.073",
-    "longitude": "121.611.195"
+    "latitude": "23.991073",
+    "longitude": "121.611195",
+    "Address": "23.991073,121.611195"
   },
   {
     "id": 5,
@@ -110,8 +114,9 @@
     "email": "jack@fakemail.com",
     "city": "chiayi",
     "picture": "jack.jpg",
-    "latitude": "23.480.075",
-    "longitude": "120.449.111"
+    "latitude": "23.480075",
+    "longitude": "120.449111",
+    "Address": "23.480075,120.449111"
   },
   {
     "id": 6,
@@ -126,8 +131,9 @@
     "email": "maria@fakemail.com",
     "city": "new taipei city",
     "picture": "maria.jpg",
-    "latitude": "25.016.983",
-    "longitude": "121.462.787"
+    "latitude": "25.016983",
+    "longitude": "121.462787",
+    "Address": "25.016983,121.462787"
   },
   {
     "id": 3,
@@ -142,8 +148,9 @@
     "email": "jill@fakemail.com",
     "city": "keelung",
     "picture": "jill.jpg",
-    "latitude": "25.127.603",
-    "longitude": "121.739.183"
+    "latitude": "25.127603",
+    "longitude": "121.739183",
+    "Address": "25.127603,121.739183"
   },
   {
     "id": 4,
@@ -158,7 +165,8 @@
     "email": "chris@fakemail.com",
     "city": "changhua",
     "picture": "chris.jpg",
-    "latitude": "24.071.658",
-    "longitude": "120.562.447"
+    "latitude": "24.071658",
+    "longitude": "120.562447",
+    "Address": "24.071658,120.562447"
   }
 ]
