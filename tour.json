@@ -29,8 +29,9 @@
     "email": "bella@fakemail.com",
     "city": "taipei",
     "picture": "bella.jpg",
-    "latitude": "25.032.969",
-    "longitude": "121.565.418"
+    "latitude": "25.032969",
+    "longitude": "121.565418",
+    "Address": "25.032969,121.565418"
   },
   {
     "id": 10,
