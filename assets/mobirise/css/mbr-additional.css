@@ -431,6 +431,11 @@ h6,
 #pricing-table2-h .mbr-plan-title {
   color: #000000;
 }
+#header2-i .mbr-section-title {
+  text-align: left;
+  font-size: 36px;
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -503,9 +508,4 @@ h6,
 }
 #features1-j .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #cccccc;
-}
-#header2-i .mbr-section-title {
-  text-align: left;
-  font-size: 36px;
-  color: #ffffff;
 }
