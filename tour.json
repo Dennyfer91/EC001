@@ -13,7 +13,8 @@
     "city": "taichung",
     "picture": "andi.jpg",
     "latitude": "24.147.736",
-    "longitude": "120.673.648"
+    "longitude": "120.673.648",
+    "Address": "24.147.736,120.673.648"
   },
   {
     "id": 11,
